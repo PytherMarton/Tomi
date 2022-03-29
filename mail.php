@@ -16,5 +16,5 @@
     if(mail($to, $subject, $body, $headers)){
         echo '<label class="success">Sent your <b>e-mail.</b></label>';
     }else{
-        echo '<label class="error">Something went wrong! please try again.</label>';
+        echo '<label class="error">Something went wrong! Please try again.</label>';
     }
