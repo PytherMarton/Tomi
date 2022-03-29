@@ -79,10 +79,10 @@
 		            required: "Write your name here"
 		        },
 		        email: {
-		            required: "No email, no support"
+		            required: "Type your email please"
 		        },
 		        subject: {
-		            required: "you have a reason to contact, write it here"
+		            required: "What is your subject about?"
 		        },
 		        message: {
 		            required: "You have to write something to send this form"
